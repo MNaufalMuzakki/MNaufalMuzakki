@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 
-I am a **Multimedia Engineering Technology** student at **Telkom University** with a unique intersection of technical logic and creative visual storytelling. Certified as an **Intermediate Multimedia Designer (Desainer Multimedia Madya) by BNSP**, I specialize in executing end-to-end digital projects—from robust full-stack web architectures to interactive game mechanics.
+I am a **Multimedia Engineering Technology** student at **Telkom University** with a unique intersection of technical logic and creative visual storytelling. Certified as an **Intermediate Multimedia Designer (Desainer Multimedia Madya) by BNSP**, I specialize in executing end-to-end digital projects, from functional full-stack web applications to interactive game logic..
 
 Backed by strong organizational experience in secretariat and managerial roles, I highly value systematic workflows, precise timeline management, and effective team communication. I actively leverage AI tools to optimize development workflows and increase project execution efficiency.
 
