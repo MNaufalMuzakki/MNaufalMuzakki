@@ -47,6 +47,7 @@ Backed by strong organizational experience in secretariat and managerial roles, 
 ### 🎥 Videography & Creative Design
 ![](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![](https://img.shields.io/badge/Adobe_After_Effects-CF96FD?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
