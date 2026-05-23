@@ -57,7 +57,7 @@ Backed by strong organizational experience in secretariat and managerial roles, 
 - **Tech Stack:** Laravel 12.0, PHP 8.2, PostgreSQL (Supabase), Tailwind CSS 4.0, Google Workspace APIs (Docs, Drive, Sheets).
 - **Key Highlight:** Successfully engineered a hybrid database architecture syncing Supabase with Google Sheets (via Laravel Sushi) for No-Code DB management, and implemented automated document cloning with real-time API mail-merge to generate official organizational documents instantly.
 
-### 🕹️ Chich'nSpice (2D Pixel Arcade Game)
+### 🕹️ Chick'nSpice (2D Pixel Arcade Game)
 - **Description:** A fast-paced, reflex-based 2D pixel art game where the player controls a basket to collect falling food items to gain points while actively dodging bombs to avoid point deductions.
 - **Tech Stack:** Unity 2D, C#, Pixel Art Assets.
 - **Key Highlight:** Engineered a solid core gameplay loop utilizing Unity's 2D collision detection (Triggers & Rigidbodies), dynamic object spawning mechanics (Prefabs/Instantiate), and real-time state management for the scoring system.
