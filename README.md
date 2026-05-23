@@ -19,7 +19,7 @@ I am a **Multimedia Engineering Technology** student at **Telkom University** wi
 Backed by strong organizational experience in secretariat and managerial roles, I highly value systematic workflows, precise timeline management, and effective team communication. I actively leverage AI tools to optimize development workflows, enhance creative ideation, and increase project execution efficiency.
 
 - 🎓 **Education:** Terapan Teknologi Rekayasa Multimedia (TRM), Telkom University (Batch 2023)
-- 💼 **Looking for:** Full-stack Developer / Multimedia Engineer internships and collaborative projects.
+- 💼 **Looking for:** Full-stack Developer / Multimedia Engineer / Video Creative internships and collaborative projects.
 - 🎯 **Core Focus:** Balancing system logic with seamless user experience and visual storytelling.
 
 ---
