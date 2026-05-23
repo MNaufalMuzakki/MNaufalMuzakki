@@ -1,5 +1,5 @@
 # Hi there, I'm Muhammad Naufal Muzakki 👋
-### Multimedia Engineer | Full-Stack Web & Game Developer
+### Multimedia Engineer | Full-Stack Web & Game Developer | Videograph
 
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-naufal-muzakki-962674292/" target="_blank">
