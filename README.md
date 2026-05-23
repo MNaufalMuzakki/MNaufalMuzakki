@@ -14,13 +14,15 @@
 
 ## ⚡ About Me
 
-I am a **Multimedia Engineering Technology** student at **Telkom University** with a unique intersection of technical logic and creative visual storytelling. Certified as an **Intermediate Multimedia Designer (Desainer Multimedia Madya) by BNSP**, I specialize in executing end-to-end digital projects, from functional full-stack web applications and interactive game logic to audio-visual production.
+I am a **Multimedia Engineering Technology** student at **Telkom University** with a unique intersection of technical logic and creative visual storytelling. Certified as an **Intermediate Multimedia Designer (Desainer Multimedia Madya) by BNSP**, I specialize in executing end-to-end digital projects—from functional full-stack web applications and interactive game logic to audio-visual production.
 
 Backed by strong organizational experience in secretariat and managerial roles, I highly value systematic workflows, precise timeline management, and effective team communication. I actively leverage AI tools to optimize development workflows, enhance creative ideation, and increase project execution efficiency.
 
-- 🎓 **Education:** Terapan Teknologi Rekayasa Multimedia (TRM), Telkom University (Batch 2023)
-- 💼 **Looking for:** Full-stack Developer / Multimedia Engineer / Video Creative internships and collaborative projects.
-- 🎯 **Core Focus:** Balancing system logic with seamless user experience and visual storytelling.
+🎓 **Education:** Terapan Teknologi Rekayasa Multimedia (TRM), Telkom University (Batch 2023)
+
+💼 **Looking for:** Full-stack Developer / Multimedia Engineer / Video Creative internships and collaborative projects.
+
+🎯 **Core Focus:** Balancing system logic with seamless user experience and visual storytelling.
 
 ---
 
@@ -31,6 +33,7 @@ Backed by strong organizational experience in secretariat and managerial roles, 
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Unity-222C37?style=flat-square&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
@@ -40,29 +43,29 @@ Backed by strong organizational experience in secretariat and managerial roles, 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-### 🤖 AI Tools & Methodologies
-- **AI Assistants:** ChatGPT, GitHub Copilot (Code Optimization & Creative Storyboarding)
+### 🤖 Tools & Methodologies
+- **AI Assistants:** ChatGPT, GitHub Copilot (Workflow Optimization & Ideation Copilot)
 - **Software Testing:** White-box Testing, Black-box Testing
 - **Project Management:** Timeline Tracking, Agile Teamwork Coordination
 
 ---
 
-## 📌 Featured Projects & Prototypes
+## 📌 Featured Projects
 
-### 🌐 Full-Stack Room Booking & Event Scheduler
-- **Description:** A database-driven web application built to streamline event coordination and room allocations.
-- **Tech Stack:** Laravel, PHP, MySQL, Tailwind CSS.
-- **Key Highlight:** Implements structured CRUD operations, relational database constraints, and a responsive UI optimized for user convenience.
+### 🌐 SIAP Dakwah (Sistem Informasi Administrasi Pejuang Dakwah)
+- **Description:** A comprehensive, centralized management information system built to streamline organizational administration, replacing scattered drive links with a unified portal for official letters, proposals, and automated reporting.
+- **Tech Stack:** Laravel 12.0, PHP 8.2, PostgreSQL (Supabase), Tailwind CSS 4.0, Google Workspace APIs (Docs, Drive, Sheets).
+- **Key Highlight:** Successfully engineered a hybrid database architecture syncing Supabase with Google Sheets (via Laravel Sushi) for No-Code DB management, and implemented automated document cloning with real-time API mail-merge to generate official organizational documents instantly.
 
-### 🌌 Echoes of Sangantuar (Visual Novel Prototype)
-- **Description:** A sci-fi narrative visual novel featuring complex dialogue branches, time-loop logic, and immersive cultural anomalies.
-- **Tech Stack:** Ren'Py Engine / Python.
-- **Key Highlight:** Developed as a technical prototype to explore intricate storytelling logic, script state management, and asset coordination.
+### 🕹️ Chich'nSpice (2D Pixel Arcade Game)
+- **Description:** A fast-paced, reflex-based 2D pixel art game where the player controls a basket to collect falling food items to gain points while actively dodging bombs to avoid point deductions.
+- **Tech Stack:** Unity 2D, C#, Pixel Art Assets.
+- **Key Highlight:** Engineered a solid core gameplay loop utilizing Unity's 2D collision detection (Triggers & Rigidbodies), dynamic object spawning mechanics (Prefabs/Instantiate), and real-time state management for the scoring system.
 
-### 🎬 AI-Assisted Visual Commercial (Videography)
-- **Description:** A promotional audio-visual project blending raw camera footage with AI-generated assets.
-- **Tech Stack:** Premiere Pro, After Effects, AI Generators.
-- **Key Highlight:** Demonstrates proficiency in color grading, video editing timelines, and integrating AI tools to streamline storyboarding and content production.
+### 🎬 "Terbuang Dalam Waktu - Barasuara - Peacfull Piano Ver" (Music Video Clip Project/Cover)
+- **Description**: An end-to-end music video production where I served as the primary all-rounder—handling scriptwriting, on-set directing, acting, cinematography, and production logistics.
+- **Tech Stack**: Adobe Premiere Pro, Adobe After Effects, Capcut.
+- **Key Highlight**: Executed the complete creative pipeline from pre-production to post-production, including hands-on video editing and visual effects implementation.
 
 ---
 
