@@ -28,14 +28,21 @@ Backed by strong organizational experience in secretariat and managerial roles, 
 
 ## 🛠️ Tech Stack & Expertise
 
-### 💻 Web & Game Development
+### 💻 Web Development
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Google_Workspace_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### 🕹️ Game Development
 ![](https://img.shields.io/badge/Unity-222C37?style=flat-square&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🎥 Videography & Creative Design
 ![](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
@@ -43,11 +50,12 @@ Backed by strong organizational experience in secretariat and managerial roles, 
 ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-### 🤖 Tools & Methodologies
-- **AI Assistants:** ChatGPT, GitHub Copilot (Workflow Optimization & Ideation Copilot)
-- **Software Testing:** White-box Testing, Black-box Testing
-- **Project Management:** Timeline Tracking, Agile Teamwork Coordination
-
+### ⚙️ Tools & Methodologies
+- **Version Control & Deployment:** Git, GitHub
+- **AI Assistants:** ChatGPT, Gemini, GitHub Copilot (Code Optimization & Creative Ideation)
+- **Software Architecture:** MVC Pattern, No-Code DB Integration
+- **Testing & QA:** White-box Testing, Black-box Testing
+- **Project Management:** Timeline Tracking, Agile Coordination
 ---
 
 ## 📌 Featured Projects
